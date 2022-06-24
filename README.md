@@ -1,4 +1,6 @@
-# Ex04-Constructor
+### EX NO : 04
+### DATE  : 27.04.2022
+# <p align="center">Constructor</p>
 ## Aim:
  To write a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor.
  
@@ -15,6 +17,10 @@ call salary method in constructor to calculate salary.
 call display method to display the output.
 ### Step6:
 stop
+
+<br/><br/><br/><br/><br/><br/><br/>
+
+
  ## Program:
  ```c#
  using System;
